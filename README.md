@@ -4,6 +4,7 @@
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
+
 This is a site that was made to show case the usage of Github, HTML, CSS, and JavaScript. Being able to implement all of those resources to create a site to make something functional but also with a bit creativity. This is used as a place to store notes from either category and learning along the way to apply the concepts and incorperate them into the site. 
 
 ## Installation
@@ -34,3 +35,4 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
